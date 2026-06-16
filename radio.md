@@ -17,7 +17,7 @@
 <table style="width:100%">
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://lomelda.bandcamp.com/album/forever"><img width="240" src="https://f4.bcbits.com/img/a0435029177_16.jpg"></a></td>
+<td style="width:29%"><a target="_blank" rel="noopener noreferrer" href="https://lomelda.bandcamp.com/album/forever"><img width="240" src="https://f4.bcbits.com/img/a0435029177_16.jpg"></a></td>
 <td> <b>Lomelda</b> – <a target="_blank" rel="noopener noreferrer" href="https://lomelda.bandcamp.com/album/forever"><b><i>Forever</i></b></a> <sup>(2015)</sup>
 <br>the debut album by rural texas singer-songwriter Hannah Read is both intimate and melancholic... many of the tracks seem to revolve around a feeling of not wanting to face tomorrow after a night of being unloved... sad music can be the best medicine the morning after a shitty day, and it feels good to feel felt... this album is perfect in that regard...
 <br>
@@ -26,7 +26,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://workwife1.bandcamp.com/album/quitting-season"><img width="240" src="https://f4.bcbits.com/img/a0924758458_16.jpg"></a></td>
+<td style="width:28%"><a target="_blank" rel="noopener noreferrer" href="https://workwife1.bandcamp.com/album/quitting-season"><img width="240" src="https://f4.bcbits.com/img/a0924758458_16.jpg"></a></td>
 <td><b>Work Wife</b> – <a target="_blank" rel="noopener noreferrer" href="https://workwife1.bandcamp.com/album/quitting-season"><b><i>Quitting Season</i></b></a> <sup>(2022)</sup>
 <br>this five track EP feels like a full album as all five songs hit the mark... straddling the line between indie rock and indie folk, Work Wife gives off a certain "suburban midwest kids who naïvely moved to new york" vibe... it starts off with a couple hip-swaying bangers and ends with a melancholic head-nodding tune that makes me think about some past relationships in a different light...
 <br>
@@ -35,7 +35,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://washedout.bandcamp.com/album/paracosm"><img width="240" src="https://f4.bcbits.com/img/a2264784825_16.jpg"></a></td>
+<td style="width:27%"><a target="_blank" rel="noopener noreferrer" href="https://washedout.bandcamp.com/album/paracosm"><img width="240" src="https://f4.bcbits.com/img/a2264784825_16.jpg"></a></td>
 <td> <b>Washed Out</b> – <a target="_blank" rel="noopener noreferrer" href="https://washedout.bandcamp.com/album/paracosm"><b><i>Paracosm</i></b></a> <sup>(2013)</sup>
 <br> a favorite, feel-good record among those who’ve heard it... a paracosm is a detailed imaginary world, often a personal, alternate reality that offers a peaceful place of thought and understanding... the flow from song to song is beautiful... unique and catchy melodies help break up the consistently airy instrumentation... warm synth and reverb help cement the feel and flow on each track... very good album for a road trip or when you just want to feel positive, escape, float away...
 <br>
@@ -44,7 +44,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=OLAK5uy_novdY7OAt-flzEnq_8ukR2zjNQaAmcuio"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Deltron_3030_%28album_cover%29.jpg"></a></td>
+<td style="width:26%"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=OLAK5uy_novdY7OAt-flzEnq_8ukR2zjNQaAmcuio"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Deltron_3030_%28album_cover%29.jpg"></a></td>
 <td> <b>Deltron 3030</b> – <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=OLAK5uy_novdY7OAt-flzEnq_8ukR2zjNQaAmcuio"><b><i>Deltron 3030</i></b></a> <sup>(2000)</sup>
 <br> an experimental “hip hopera” following the space oddities of the fictional Deltron Zero (the hero) and his assistant Automator (not a hater) in the year 3030... often cited as a “slept on” proto-nerd-rap record... though also, paradoxically, often cited as an overrated fan favorite... the album is full of geeky sci-fi references, ironic braggadocio, and clever social critique in its seemingly unending lyrics... I like Del the Funky Homosapien’s flow and canter, despite criticisms that his rap structure is a bit simple...
 <br>
@@ -53,7 +53,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://addiealaimo.bandcamp.com/album/a-for-album"><img width="240" src="https://f4.bcbits.com/img/a3197929619_16.jpg"></a></td>
+<td style="width:25%"><a target="_blank" rel="noopener noreferrer" href="https://addiealaimo.bandcamp.com/album/a-for-album"><img width="240" src="https://f4.bcbits.com/img/a3197929619_16.jpg"></a></td>
 <td> <b>Addie Alaimo</b> – <a target="_blank" rel="noopener noreferrer" href="https://addiealaimo.bandcamp.com/album/a-for-album"><b><i>A For Album</i></b></a> <sup>(2025)</sup>
 <br> this little big sophomore album is nostalgic, folksy, and rustic... with vocals that waver between tenderness and abraded from emotion, each track offers a unique tone and setting for the listener to experience what the songwriter has experienced in a way that feels genuine... this is a good album to sing along to on a long drive in the heartland; no noises, no clutter, no scenery, just road and miles... miles and miles... if you're more of a kilometers person, you wouldn't get it...
 <br>
@@ -62,7 +62,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme"><img width="240" src="https://f4.bcbits.com/img/a1272667106_16.jpg"></a></td>
+<td style="width:24%"><a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme"><img width="240" src="https://f4.bcbits.com/img/a1272667106_16.jpg"></a></td>
 <td> <b>The Radio Dept.</b> – <a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme"><b><i>Clinging to a Scheme</i></b></a> <sup>(2010)</sup>
     <br> as with 2003's <a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/lesser-matters">Lesser Matters</a> and 2006's <a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/pet-grief">Pet Grief</a>, not a single song on this album is skippable... though it is full of the same saudade, nostalgic softness of their first two albums, Clinging to a Scheme ventures a bit into more upbeat and adventurous, jangly, guitar grooves... we also get to hear Johan Duncanson's lead vocals unfiltered for the first time on a few tracks, which is a good sign of a vocalist's maturation... This album also lays a solid framework for their divergent, follow-up, protest album, 2016's <a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/running-out-of-love">Running out of Love</a>...
 <br>
@@ -71,7 +71,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_mUNbqLL5w8JN8QDs5OwuS48jVS7vl87sA"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/d/dd/Belle_sebastian_-_the_boy_with_the_arab_strap.jpg"></a></td>
+<td style="width:23%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_mUNbqLL5w8JN8QDs5OwuS48jVS7vl87sA"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/d/dd/Belle_sebastian_-_the_boy_with_the_arab_strap.jpg"></a></td>
 <td> <b>Belle and Sebastian</b> – <a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_mUNbqLL5w8JN8QDs5OwuS48jVS7vl87sA"><b><i>The Boy with the Arab Strap</i></b></a> <sup>(1998)</sup>
 <br> this indie pop record laid solid groundwork for that thoughtful-yet-upbeat indie sound years before a wave of soft and melodic artists in the early 2000s like The Shins and Fleet Foxes... its themes are often dark, despite the bright and occasionally punchy arrangements and silly lyrics... the group switches roles on several tracks, and even switches genres on a few... you’ll catch a stereotypically “twee” sounding song followed by an avant garde, spoken word poetic experiment...
 <br>
@@ -80,7 +80,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://guerillatoss.bandcamp.com/album/gt-ultra"><img width="240" src="https://f4.bcbits.com/img/a0105432156_16.jpg"></a></td>
+<td style="width:22%"><a target="_blank" rel="noopener noreferrer" href="https://guerillatoss.bandcamp.com/album/gt-ultra"><img width="240" src="https://f4.bcbits.com/img/a0105432156_16.jpg"></a></td>
 <td> <b>Guerilla Toss</b> – <a target="_blank" rel="noopener noreferrer" href="https://guerillatoss.bandcamp.com/album/gt-ultra"><b><i>GT Ultra</i></b></a> <sup>(2017)</sup>
 <br> drums and synth reminiscent of dance pop mix with cantankerous punk vocals on this sophomore Guerilla Toss album, which is not even remotely accessible to new listeners... this record is best described as dirty and insane, yet still presentable and sound... the first track could easily back a lead-in FMV to a Tony Hawk’s Pro Skater game... if you like bizarre, female-led bands and have tried acid more than one time, then give this and their follow-up album, *Twisted Crystal*, a shot...
 <br>
@@ -89,7 +89,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_lAXSdUM5M2Xe8AoEybEy6Mx3rUzivalJY"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Dance_Mother_%282009%29_by_Telepathe.jpg"></a></td>
+<td style="width:21%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_lAXSdUM5M2Xe8AoEybEy6Mx3rUzivalJY"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Dance_Mother_%282009%29_by_Telepathe.jpg"></a></td>
 <td> <b>Telepathe</b> – <a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_lAXSdUM5M2Xe8AoEybEy6Mx3rUzivalJY"><b><i>Dance Mother</i></b></a> <sup>(2009)</sup>
 <br> I have a soft spot for female vocalists that “half-sing” their lyrics and this album is a great example of that... you’ll know what I mean on tracks that feature flourishing synth and drum beats but lack graceful vocals, which may be the right decision after all... it’s also home to deep bass and layered loops that you’d expect from house music, yet partnered with campy and bright lyrical narratives... this is an enjoyable album that would play in the background of a party in 2010 thrown by the girl in your psychology lecture who really likes Flight of the Concords...
 <br>
@@ -98,7 +98,7 @@
 </td></tr>
 
 <tr>
-<td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://temachii.bandcamp.com/album/flora-maniia"><img width="240" src="https://f4.bcbits.com/img/a3697532701_10.jpg"></a></td>
+<td style="width:20%"><a target="_blank" rel="noopener noreferrer" href="https://temachii.bandcamp.com/album/flora-maniia"><img width="240" src="https://f4.bcbits.com/img/a3697532701_10.jpg"></a></td>
 <td> <b>temachii</b> – <a target="_blank" rel="noopener noreferrer" href="https://temachii.bandcamp.com/album/flora-maniia"><b><i>flora maniia</i></b></a> <sup>(2023)</sup>
 <br> you know an album is a deep cut when the artist sends you a cd that they burnt themselves and drew the slip-cover art in green gel pen... it's intimate bedroom dream pop with catchy melodies and sing-along-able vocals that is impressively mixed and mastered for an amateur debut... you may, like me, find yourself mesmerized by how good this album is, and jealous that you haven't make one just like it...
 <br>
