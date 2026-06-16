@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="theme.css">
+
 > #### _a perfect evening: your phone is on silent, you've made tea, you're sat in your comfiest chair with a good album, you're calm, relaxed, and plotting your sweet, sweet revenge._
 > <cite><font color="#616569">quite adept, when asked at a job interview to describe a perfect evening, May 18, 2024</font>
 <br><br>
@@ -20,7 +22,7 @@
 <br>genre(s): folk, indie folk
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://workwife1.bandcamp.com/album/quitting-season"><img width="240" src="https://f4.bcbits.com/img/a0924758458_16.jpg"></a></td>
@@ -31,7 +33,7 @@
 <br>genre(s): indie rock, indie folk
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://washedout.bandcamp.com/album/paracosm"><img width="240" src="https://f4.bcbits.com/img/a2264784825_16.jpg"></a></td>
@@ -42,7 +44,7 @@
 <br>genre(s): chillwave, synth pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=OLAK5uy_novdY7OAt-flzEnq_8ukR2zjNQaAmcuio"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Deltron_3030_%28album_cover%29.jpg"></a></td>
@@ -53,7 +55,7 @@
 <br>genre(s): alternative hip hop, rap opera
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://addiealaimo.bandcamp.com/album/a-for-album"><img width="240" src="https://f4.bcbits.com/img/a3197929619_16.jpg"></a></td>
@@ -64,7 +66,7 @@
 <br>genre(s): indie folk, americana, post-country
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://theradiodept.bandcamp.com/album/clinging-to-a-scheme"><img width="240" src="https://f4.bcbits.com/img/a1272667106_16.jpg"></a></td>
@@ -75,7 +77,7 @@
 <br>genre(s): shoegaze, dream pop, indie pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_mUNbqLL5w8JN8QDs5OwuS48jVS7vl87sA"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/d/dd/Belle_sebastian_-_the_boy_with_the_arab_strap.jpg"></a></td>
@@ -86,7 +88,7 @@
 <br>genre(s): indie pop, chamber pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://guerillatoss.bandcamp.com/album/gt-ultra"><img width="240" src="https://f4.bcbits.com/img/a0105432156_16.jpg"></a></td>
@@ -97,7 +99,7 @@
 <br>genre(s): punk rock, dance punk, neo-psychedelia, art pop, ???
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_lAXSdUM5M2Xe8AoEybEy6Mx3rUzivalJY"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/0/0a/Dance_Mother_%282009%29_by_Telepathe.jpg"></a></td>
@@ -108,7 +110,7 @@
 <br>genre(s): synth-pop, electronica
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://temachii.bandcamp.com/album/flora-maniia"><img width="240" src="https://f4.bcbits.com/img/a3697532701_10.jpg"></a></td>
@@ -119,7 +121,7 @@
 <br>genre(s): dream pop, shoegaze
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://music.youtube.com/playlist?list=OLAK5uy_nZ-_sZdT4VKwGG5D02cnPHS9lfSI8vLPM"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/7/71/Pawnshoppeheart.jpg"></a></td>
@@ -130,7 +132,7 @@
 <br>genre(s): garage rock, garage punk
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://hachikumusic.bandcamp.com/album/the-joys-of-being-pure-at-heart"><img width="240" src="https://f4.bcbits.com/img/a0217679954_16.jpg"></a></td>
@@ -141,7 +143,7 @@
 <br>genre(s): indie pop, synth pop, dream pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://sobs.bandcamp.com/album/telltale-signs"><img width="240" src="https://f4.bcbits.com/img/a2831715091_16.jpg"></a></td>
@@ -152,7 +154,7 @@
 <br>genre(s): jangle pop, indie rock, indie pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://subsoniceye.bandcamp.com/album/nature-of-things"><img width="240" src="https://f4.bcbits.com/img/a0603047834_10.jpg"></a></td>
@@ -163,7 +165,7 @@
 <br>genre(s): indie rock, post-punk, noise rock
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://theorionexperience.bandcamp.com/album/cosmicandy"><img width="240" src="https://f4.bcbits.com/img/a3979495405_10.jpg"></a></td>
@@ -174,7 +176,7 @@
 <br>genre(s): pop, electro pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://7wisemen.bandcamp.com/album/wisemen-approaching"><img width="240" src="https://f4.bcbits.com/img/a3869862359_16.jpg"></a></td>
@@ -185,7 +187,7 @@
 <br>genre(s): hip hop, rap
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://monkoora.bandcamp.com/album/night-charm"><img width="240" src="https://f4.bcbits.com/img/a2421752460_16.jpg"></a></td>
@@ -196,7 +198,7 @@
 <br>genre(s): art pop, new wave, folktronica, hyperpop, dream pop, goth, experimental
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://silversunpickups.bandcamp.com/album/pikul-2"><img width="240" src="https://f4.bcbits.com/img/a1922136910_10.jpg"></a></td>
@@ -207,7 +209,7 @@
 <br>genre(s): alternative rock, grunge
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://oliviakaplanmusic.bandcamp.com/album/tonight-turns-to-nothing"><img width="240" src="https://f4.bcbits.com/img/a2838196202_10.jpg"></a></td>
@@ -218,7 +220,7 @@
 <br>genre(s): indie folk, indie rock, post-country
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://melenas.bandcamp.com/album/ahora"><img width="240" src="https://f4.bcbits.com/img/a0596251993_16.jpg"></a></td>
@@ -229,7 +231,7 @@
 <br>genre(s): dream pop, garage rock, synth pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://closureinmoscow.bandcamp.com/album/pink-lemonade"><img width="240" src="https://f4.bcbits.com/img/a3577394823_10.jpg"></a></td>
@@ -240,7 +242,7 @@
 <br>genre(s): art rock, progressive rock, psychedelic rock, experimental, post-hardcore
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://steadyholiday.bandcamp.com/album/take-the-corners-gently"><img width="240" src="https://f4.bcbits.com/img/a2460747396_16.jpg"></a></td>
@@ -262,7 +264,7 @@
 <br>genre(s): hardcore punk
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Lucio_Battisti_(album)"><img width="240" src="https://upload.wikimedia.org/wikipedia/en/3/31/Lucio_Battisti_-_Lucio_Battisti.jpg"></a></td>
@@ -273,7 +275,7 @@
 <br>genre(s): folk rock, pop rock, soft rock
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://thebethsnz.bandcamp.com/album/expert-in-a-dying-field"><img width="240" src="https://f4.bcbits.com/img/a1119979697_10.jpg"></a></td>
@@ -284,7 +286,7 @@
 <br>genre(s): indie rock, power pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://ratboys.bandcamp.com/album/gn"><img width="240" src="https://f4.bcbits.com/img/a3646588812_16.jpg"></a></td>
@@ -295,7 +297,7 @@
 <br>genre(s): indie folk, post-country
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://sealemonmusic.bandcamp.com/album/close-up"><img width="240" src="https://f4.bcbits.com/img/a2987998957_10.jpg"></a></td>
@@ -306,7 +308,7 @@
 <br>genre(s): dream pop, indie rock, indie pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://hhbtm.bandcamp.com/album/karen-haters-club"><img width="240" src="https://f4.bcbits.com/img/a2825509701_16.jpg"></a></td>
@@ -317,7 +319,7 @@
 <br>genre(s): garage punk, twee, indie pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr>
 <td style="width:30%"><a target="_blank" rel="noopener noreferrer" href="https://fazerdaze.bandcamp.com/album/morningside"><img width="240" src="https://f4.bcbits.com/img/a1586741368_10.jpg"></a></td>
@@ -328,7 +330,7 @@
 <br>genre(s): dream pop, indie rock, indie pop
 </td></tr>
 
-<tr><td>&nbsp;<br><br></td></tr>
+<tr><td>&nbsp;</td></tr>
 
 </table>
 
