@@ -90,12 +90,12 @@ table {
 	margin: 10px auto;
 }
 
-tbody tr:nth-child(odd) {
+tr:nth-child(odd) {
   background-color: #1C1229;
 }
 
-tbody tr:nth-child(even) {
-  background-color: #150D1F;
+tr:nth-child(even) {
+  background-color: #150D1E;
 }
 
 aside,
