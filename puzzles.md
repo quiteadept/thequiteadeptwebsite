@@ -58,47 +58,47 @@ An agent has intercepted an address book from an enemy operative. After looking 
 <br>
 <table cellspacing="10" cellpadding="10" dir="ltr" border="1" style="" data-sheets-root="1" data-sheets-baot="1" width="960px">
   <thead>
-    <tr style="height:24px; background-color:#150D1F color:#FFF5DC">
-      <th width="240px">SURNAME</th>
-      <th width="240px">GIVEN</th>
-      <th width="480px">ADDRESS</th>
+    <tr style="height:24px; background-color:#150D1F;">
+      <th width="240px"><font color="#FFF5DC">SURNAME</font></th>
+      <th width="240px"><font color="#FFF5DC">GIVEN NAME</font></th>
+      <th width="480px"><font color="#FFF5DC">LAST KNOWN ADDRESS</font></th>
     </tr>
   </thead><colgroup><col width="240px"><col width="240px"><col width="480px"></colgroup>
   <tbody>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CAYLOR</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Cassandra</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">6512 Washington Dr</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">6512 Washington Dr</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CHO</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Casey</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">704 Brownstone St</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">704 Brownstone St</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CHURCHILL</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Brittany</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">8411 Pleasant Ln</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">8411 Pleasant Ln</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CIRILLO</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Arsenio</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">1049 Sappington Greens St</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">1049 Sappington Greens St</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CLAEYS</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Jake</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2100 Elizabeth Dr</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">2100 Elizabeth Dr</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CODY</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Jonathan</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2548 Chickadee Ave</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">2548 Chickadee Ave</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CODY</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Leon</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2548 Chickadee Ave</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">2548 Chickadee Ave</td>
     </tr>
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CORDOBA</td>
@@ -108,7 +108,7 @@ An agent has intercepted an address book from an enemy operative. After looking 
     <tr style="height:21px;">
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CREIGHTON</td>
       <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Hunter</td>
-      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">6101 N Creek Cir</div></div></td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">6101 N Creek Cir</td>
     </tr>
   </tbody>
 </table>
