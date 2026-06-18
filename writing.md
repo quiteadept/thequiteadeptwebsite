@@ -15,36 +15,28 @@
 <br>
 
 
-<br>
-<center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
-<br>
-<br>
-#### tohoku japan haiku journey
-<br>![haiku1](haiku1.png "camellia bloom")<br>
+
+### tohoku japan haiku journey
 Beach of black pebbles<br>
 Rainy day, Sanriku Coast<br>
 Camellia bloom<br>
 <br>
 <br>
-<br>![haiku2](haiku2.png "torii gate")<br>
 Dreary April morn<br>
 Stroll along Lake Tazawa<br>
 Stillness, torii gate<br>
 <br>
 <br>
-<br>![haiku3](haiku3.png "ofunatomarumori")<br>
 Tranquil morning sun<br>
 Bay calmed in a golden glow<br>
 Fishing boat at work<br>
 <br>
 <br>
-<br>![haiku4](haiku4.png "risshaku-ji")<br>
 Snowfall in late spring<br>
 Following saru footsteps<br>
 Mountainside temple<br>
 <br>
 <br>
-<br>![haiku5](haiku5.png "kaminari")<br>
 Above blue jade waves<br>
 Crash of thunder in sea caves<br>
 Kaminari sound<br>
@@ -53,12 +45,12 @@ Kaminari sound<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
 
 
-#### warm shower haiku
+### warm shower haiku
 
 a dream in the form<br>
 of a warm, twenty-four hour,<br>
@@ -68,11 +60,11 @@ wrinkle-free shower<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
 
-#### fallsick haiku
+### fallsick haiku
 
 in cold, with a cold<br>
 windowside leaves and stillness<br>
@@ -82,11 +74,11 @@ my Autumn illness<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
 
-#### Wedding Poem
+### Wedding Poem
     
 The road unwound like a fraying thread,<br>
 We stand at the door where we embark,<br>
@@ -112,10 +104,11 @@ Waiting at the open door.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-    #### a short essay observing about a short essay about observing
+
+### a short essay observing about a short essay about observing
     
 we're all at least a little bit addicted to it...<br>
 <br>
@@ -135,10 +128,11 @@ and within ten seconds of posting this post, I received a notification that a us
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### Out Here
+
+### Out Here
     
 They say, "move to the country,"<br>
 The gas is cheaper out here."<br>
@@ -168,9 +162,10 @@ So I don't even steer...<br>
 <br>
 <br>
 <br>
-<center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
+
 #### Important Things to You
     
 Important things to me:<br>
@@ -207,10 +202,11 @@ I wouldn't dare...<br>
 <br>
 <br>
 <br>
-<center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### Color Conveyance
+
+### Color Conveyance
     
 If it was flaxen,<br>
 Simple and comforting,<br>
@@ -234,10 +230,11 @@ What it looks like...<br>
 <br>
 <br>
 <br>
-<center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### the cold
+
+### the cold
     
 give me the cold beneath the cold;<br>
 the frigid, the chill, the numb;<br>
@@ -259,10 +256,11 @@ I'll yearn for warmth again...<br>
 <br>
 <br>
 <br>
-<center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### it's in the leaves
+
+### it's in the leaves
     
 something that has been gnawing at you<br>
 for the longest time,<br>
@@ -283,10 +281,11 @@ gnawing at you...<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### barren in the warrens
+
+### barren in the warrens
     
 barren in the warrens,<br>
 sallow in the hollow;<br>
@@ -301,10 +300,11 @@ sallow in the hollow<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### it's a warning
+
+### it's a warning
     
 spoken by the lipless,<br>
 with eyes turned away,<br>
@@ -323,10 +323,11 @@ is it innate when it's taught?<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### dia gnosis
+
+### dia gnosis
     
 a boundless sea of remedies<br>
 for no fixable affliction<br>
@@ -341,10 +342,11 @@ I'm not ill, you are<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### the manifold mask
+
+### the manifold mask
     
 deliberations,<br>
 doubts, and dialogue,<br>
@@ -365,10 +367,11 @@ of the manifold mask.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### creation
+
+### creation
     
 it was born from the dust of the earth<br>
 and it drew the water from the deep<br>
@@ -394,10 +397,11 @@ and we forgot that it gave us hands...<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### wip lyrics 2024-05-18
+
+### wip lyrics 2024-05-18
     
 you need me to see<br>
 you need me to<br>
@@ -412,10 +416,11 @@ you need me too<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### haiku 2024-04-12
+
+### haiku 2024-04-12
     
 I lost you to this.<br>
 I remember you burning.<br>
@@ -425,10 +430,11 @@ I am your ashes.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### M
+
+### M
     
 I miss you every day;<br>
 But that's no longer true,<br>
@@ -459,10 +465,11 @@ Is hearing you say<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### The Neighborhood Ball
+
+### The Neighborhood Ball
     
 When I see emergency vehicles<br>
 Outside a suburban home,<br>
@@ -576,10 +583,11 @@ That anybody, at any time, can play as “loud” as they want.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### Stained Glass Leaves
+
+### Stained Glass Leaves
     
 In the dream I see a tree<br>
 With stained glass leaves.<br>
@@ -612,10 +620,11 @@ In the back of my mind.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### There's a Moth in the Bathroom
+
+### There's a Moth in the Bathroom
     
 There's a moth on the wall in the bathroom.<br>
 Oh shit.<br>
@@ -642,10 +651,11 @@ He can linger in the corner of my mind.<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### The Light From the Window Curtain
+
+### The Light From the Window Curtain
     
 Light flows into the room<br>
 With permission from the window curtain;<br>
@@ -688,10 +698,11 @@ And he remembers,<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### It Is So Late
+
+### It Is So Late
     
 It is so late.<br>
 So late, it's early.<br>
@@ -725,10 +736,11 @@ It is so late.
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### Even When the Earth was Still
+
+### Even When the Earth was Still
     
 It was like wind,<br>
 A howling in my ear,<br>
@@ -806,10 +818,11 @@ I can feel it, brush upon my skin...<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### An eternal being has watched over mankind for millennia without interference, until one day...
+
+### An eternal being has watched over mankind for millennia without interference, until one day...
     
 "You have to be joking." Azra'ir paced anxiously in the reflection hall of the sanctum. He was stunned with disbelief as to what he had just witnessed. For a moment he wondered if the vision pool had shown him a false vision, but he withdrew the thought after carefully reviewing the vision once more. "Unbelievable," he bellowed in a booming and ancient voice.
 
@@ -836,10 +849,11 @@ It was much louder in person. Azra'ir thought for a moment that he was in the wr
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### [excerpt from "Kella and the Syndicate"] 
+
+### [excerpt from "Kella and the Syndicate"] 
 
 He mentioned that he worked for the syndicate,<br>
 Knowing you, I thought you might be into it...<br>
@@ -861,10 +875,11 @@ Even so, I thought that I would mention it...<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### Sleeping Habits of the Inebriate
+
+### Sleeping Habits of the Inebriate
 
 Woke up in the morning<br>
 On the wrong side of the bed.<br>
@@ -911,8 +926,8 @@ On the wrong side of the bed.”<br>
 <br>
 <br>
 <br>
-    <center> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - - </center>
-<br>
+<center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
+<br><br><br>
 <i>more soon...</i>
 
 
