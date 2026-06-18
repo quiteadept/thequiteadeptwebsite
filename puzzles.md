@@ -23,7 +23,8 @@ Who doesn't love a good puzzle? The following puzzles are all original creations
 <center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
 <br>
 <br>
-#### The Mystery of the Puzzle's Riddle
+
+### The Mystery of the Puzzle's Riddle
     
 "It's just an album. Or is it an animation? No? It's a puzzle? I don't get it." you tell yourself. And you would be right. [The Mystery of the Puzzle's Riddle](https://youtu.be/pY18owpP9Uk) is an original album of spooky haunted mansion music accompanied by a looping pixel art video animation. But throughout the video are several clues, a few codes, and possibly a cypher that will lead you to a solution, but only if you're up to the challenge. There will be no hints.
 
@@ -54,18 +55,64 @@ There exists a five-letter word that when written in all-capital letters, can be
 ### message hidden in address book
     
 An agent has intercepted an address book from an enemy operative. After looking up the names and addresses, the agent discovers they are all fake and therefore believes the list to be some sort of coded message. Due to the rest of the address book being blank, the agent believes that the entire message is coded within the following list. Can you discover the hidden message in this list of names and addresses?
+<br>
+<table cellspacing="0" cellpadding="0" dir="ltr" border="1" style="" data-sheets-root="1" data-sheets-baot="1">
+  <thead>
+    <tr style="height:21px;">
+      <th>SURNAME</th>
+      <th>GIVEN</th>
+      <th>ADDRESS</th>
+    </tr>
+  </thead><colgroup><col width="100"><col width="100"><col width="100"></colgroup>
+  <tbody>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CAYLOR</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Cassandra</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">6512 Washington Dr</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CHO</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Casey</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">704 Brownstone St</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CHURCHILL</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Brittany</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">8411 Pleasant Ln</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CIRILLO</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Arsenio</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">1049 Sappington Greens St</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CLAEYS</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Jake</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2100 Elizabeth Dr</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CODY</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Jonathan</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2548 Chickadee Ave</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CODY</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Leon</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">2548 Chickadee Ave</div></div></td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CORDOBA</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Rowan</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">2786 Heekin Dr</td>
+    </tr>
+    <tr style="height:21px;">
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">CREIGHTON</td>
+      <td style="overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;">Hunter</td>
+      <td style="border-right:1px solid transparent;overflow:visible;padding:2px 0px 2px 0px;vertical-align:bottom;"><div style="white-space:nowrap;overflow:hidden;position:relative;width:196px;left:3px;"><div style="float:left;">6101 N Creek Cir</div></div></td>
+    </tr>
+  </tbody>
+</table>
 
-| SURNAME   	| GIVEN     	| ADDRESS                   	|
-|:----------------	|:----------------	|:--------------------------------	|
-| CAYLOR&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    	| Cassandra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	| 6512 Washington Dr        	|
-| CHO       	| Casey     	| 704 Brownstone St         	|
-| CHURCHILL 	| Brittany  	| 8411 Pleasant Ln          	|
-| CIRILLO   	| Arsenio   	| 1049 Sappington Greens St 	|
-| CLAEYS    	| Jake      	| 2100 Elizabeth Dr         	|
-| CODY      	| Jonathan  	| 2548 Chickadee Ave        	|
-| CODY      	| Leon      	| 2548 Chickadee Ave        	|
-| CORDOBA   	| Rowan     	| 2786 Heekin Dr            	|
-| CREIGHTON 	| Hunter    	| 6101 N Creek Cir         	|
 <br>
 <font color="#616569"><sup>added 2023/07/22</sup></font>
 <br>
@@ -79,9 +126,9 @@ An agent has intercepted an address book from an enemy operative. After looking 
     
 spend 45 minutes sometime coming up with your own cypher and coded message... it's not that hard... solving someone else's coded message can be difficult though...<br><br>see if you can decipher this message... if it is hard to read or your browser is not displaying it properly, try copying it into a text editor... the commas and periods are just commas and periods... and no, it is not "be sure to drink your ovaltine" but you do get social credit for thinking of that right away...<br><br>
 
-## ◁⌽, &nbsp; ∣◬ &nbsp; ✕·∵⋁೦⊏ &nbsp; ◫.<br>
-## ∣ &nbsp; ⬨· &nbsp; ◻◁⊟ &nbsp; ∷◬∵⊏ &nbsp; ⬨⊡ &nbsp; ◁−⋁ &nbsp; ⊐◎⬨ &nbsp; ⊖✕∣.<br>
-## ◻◁⟠∷ &nbsp; ∣◬, &nbsp; ⟠⊏ &nbsp; ⊕∴೦∴⊐⊕ &nbsp; ⊡ &nbsp; ∷−∵∵ &nbsp; ∣◬+ &nbsp; ∴⊡◁⊕ &nbsp; ⊐−⁜.<br>
+◁⌽, &nbsp; ∣◬ &nbsp; ✕·∵⋁೦⊏ &nbsp; ◫.<br>
+∣ &nbsp; ⬨· &nbsp; □◁⊟ &nbsp; ∷◬∵⊏ &nbsp; ⬨⊡ &nbsp; ◁−⋁ &nbsp; ⊐◎⬨ &nbsp; ⊖✕∣.<br>
+□◁⟠∷ &nbsp; ∣◬, &nbsp; ⟠⊏ &nbsp; ⊕∴೦∴⊐⊕ &nbsp; ⊡ &nbsp; ∷−∵∵ &nbsp; ∣◬+ &nbsp; ∴⊡◁⊕ &nbsp; ⊐−⁜.<br>
 <br>
 <font color="#616569"><sup>added 2023/09/19</sup></font>
 <br>
