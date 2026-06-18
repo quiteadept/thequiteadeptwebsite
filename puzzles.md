@@ -56,9 +56,9 @@ There exists a five-letter word that when written in all-capital letters, can be
     
 An agent has intercepted an address book from an enemy operative. After looking up the names and addresses, the agent discovers they are all fake and therefore believes the list to be some sort of coded message. Due to the rest of the address book being blank, the agent believes that the entire message is coded within the following list. Can you discover the hidden message in this list of names and addresses?
 <br>
-<table cellspacing="10" cellpadding="10" dir="ltr" border="1" style="" data-sheets-root="1" data-sheets-baot="1">
+<table cellspacing="10" cellpadding="10" dir="ltr" border="1" style="" data-sheets-root="1" data-sheets-baot="1" width="100%">
   <thead>
-    <tr style="height:24px; background-color:#150D1F">
+    <tr style="height:24px; background-color:#150D1F color:#FFF5DC">
       <th>SURNAME</th>
       <th>GIVEN</th>
       <th>ADDRESS</th>
