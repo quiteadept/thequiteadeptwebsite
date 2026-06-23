@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="theme.css">
 
 <blockquote>
-    <i><font size="16px">"</font>art... to bring beauty into the world... to attempt the nigh impossible task of conveying emotion, passion, memories, and concepts to those who can never truly understand them... it sickens me...<font size="16px">"</font></i>
+    <i>"art... to bring beauty into the world... to attempt the nigh impossible task of conveying emotion, passion, memories, and concepts to those who can never truly understand them... it sickens me..."</i>
     <br>
     <font color="#616569">quite adept, in response to the dentist asking, "how often do you floss?" – April 12, 2015</font>
 </blockquote>
