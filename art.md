@@ -14,6 +14,11 @@
 <br>
 <br>
 
+###gallery
+<font color="#616569"> links open in a new tab... they're all external links, so there's no guarantee they'll work forever; such is the nature of hot-linking images on the world wide web... the owner of this website is too cheap to self-host large images and videos... shameful... </font>
+<br>
+<br>
+
 <a target="_blank" rel="noopener noreferrer" href="https://media.mas.to/media_attachments/files/114/627/470/976/679/163/original/213924bea2806993.mp4"><img width="200" src="imgs/art-akari.png" title="Akari - from Dungeon of Departure"></a>
  &nbsp; &nbsp; &nbsp; &nbsp; 
 <a target="_blank" rel="noopener noreferrer" href="https://media.mas.to/media_attachments/files/114/627/471/111/512/603/original/87f5f03379464ca5.mp4"><img width="200" src="imgs/art-keiva.png" title="Keiva - from Dungeon of Departure"></a>
