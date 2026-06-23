@@ -17,26 +17,31 @@
 
 
 ### tohoku japan haiku journey
+<img width="400" src="imgs/haiku1.png" title="Camellia Bloom">
 Beach of black pebbles<br>
 Rainy day, Sanriku Coast<br>
 Camellia bloom<br>
 <br>
 <br>
+<img width="400" src="imgs/haiku2.png" title="Torii Gate">
 Dreary April morn<br>
 Stroll along Lake Tazawa<br>
 Stillness, torii gate<br>
 <br>
 <br>
+<img width="400" src="imgs/haiku3.png" title="Ofunatomarumori">
 Tranquil morning sun<br>
 Bay calmed in a golden glow<br>
 Fishing boat at work<br>
 <br>
 <br>
+<img width="400" src="imgs/haiku4.png" title="Saru Footsteps">
 Snowfall in late spring<br>
 Following saru footsteps<br>
 Mountainside temple<br>
 <br>
 <br>
+<img width="400" src="imgs/haiku5.png" title="Kaminari Sound">
 Above blue jade waves<br>
 Crash of thunder in sea caves<br>
 Kaminari sound<br>
