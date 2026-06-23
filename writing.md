@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="theme.css">
 
 <blockquote>
-    <i>to write is to savor life twice, first in the moment and again in reflection. for that reason, those who choose not to write are losers... stinky, dummy-head losers.</i>
+    <i>"to write is to savor life twice, first in the moment and again in reflection. for that reason, those who choose not to write are losers... stinky, dummy-head losers."</i>
     <br>
-    <font color="#616569">quite adept, to a crowd of seagulls at local parking lot, July 1, 2022</font>
+    <font color="#616569">quite adept, to a crowd of seagulls at local parking lot – July 1, 2022</font>
 </blockquote>
 <br><br>
 <br>
@@ -11,10 +11,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
 
 ### tohoku japan haiku journey
 <img width="400" src="imgs/haiku1.png" title="Camellia Bloom"><br>
