@@ -14,7 +14,7 @@
 <br>
 <br>
 
-###gallery
+### gallery
 <font color="#616569"> links open in a new tab... they're all external links, so there's no guarantee they'll work forever; such is the nature of hot-linking images on the world wide web... the owner of this website is too cheap to self-host large images and videos... shameful... </font>
 <br>
 <br>
