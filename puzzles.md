@@ -1,15 +1,13 @@
 <link rel="stylesheet" href="theme.css">
 
 <blockquote>
-    <i>the challenge of a good puzzle is not in its inherent complexity, but in the simplicity of convincing others to solve it when they would rather watch Minecraft speedrun videos.</i>
+    <i>"the challenge of a good puzzle is not in its inherent complexity, but in the simplicity of convincing others to solve it when they would rather watch Minecraft speedrun videos."</i>
     <br>
-    <font color="#616569">quite adept, to a confused and frightened child at a lemonade stand, July 1, 2022</font>
+    <font color="#616569">quite adept, to a confused and frightened child at a lemonade stand – July 1, 2022</font>
 </blockquote>
 <br><br>
 <br>
 <center>- - - - - - - - – – – – – – – – — — — — — — — — – – – – – – – – - - - - - - - -</center>
-<br>
-<br>
 <br>
 <br>
 <br>
