@@ -7,6 +7,7 @@
   	<li><a href="/art"><font color="#FFEAB3">Art</font></a></li>
  	<li><a href="/puzzles"><font color="#FFEAB3">Puzzles</font></a></li>
  	<li><a href="/radio"><font color="#FFEAB3">Radio</font></a></li>
+    <li><a href="/faq"><font color="#FFEAB3">FAQ</font></a></li>
     <li> &nbsp; </li>
 </ul>
 
