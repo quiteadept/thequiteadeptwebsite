@@ -1,5 +1,13 @@
 <link rel="stylesheet" href="theme.css">
 
+<ul>
+    <li><a href="/#"><font color="#FFEAB3">About</font></a></li>
+  	<li><a href="/writing"><font color="#FFEAB3">Writing</font></a></li>
+  	<li><a href="/art"><font color="#FFEAB3">Art</font></a></li>
+ 	<li><a href="/puzzles"><font color="#FFEAB3">Puzzles</font></a></li>
+ 	<li><a href="/radio"><font color="#FFEAB3">Radio</font></a></li>
+</ul>
+
 <blockquote>
     <i>"the challenge of a good puzzle is not in its inherent complexity, but in the simplicity of convincing others to solve it when they would rather watch Minecraft speedrun videos."</i>
     <br>
