@@ -7,8 +7,10 @@
   	<li><a href="/art"><font color="#FFEAB3">Art</font></a></li>
  	<li><a href="/puzzles"><font color="#FFEAB3">Puzzles</font></a></li>
  	<li><a href="/radio"><font color="#FFEAB3">Radio</font></a></li>
+    <li><a href="/faq"><font color="#FFEAB3">FAQ</font></a></li>
     <li> &nbsp; </li>
 </ul>
+
 <blockquote>
     <i>"to write is to savor life twice, first in the moment and again in reflection. for that reason, those who choose not to write are losers... stinky, dummy-head losers."</i>
     <br>
