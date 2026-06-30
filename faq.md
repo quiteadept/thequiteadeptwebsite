@@ -2,14 +2,16 @@
 
 <ul>
     <li> &nbsp; </li>
-    <li><a href="/#"><font color="#FFEAB3">About</font></a></li>
-  	<li><a href="/writing"><font color="#FFEAB3">Writing</font></a></li>
-  	<li><a href="/art"><font color="#FFEAB3">Art</font></a></li>
- 	  <li><a href="/puzzles"><font color="#FFEAB3">Puzzles</font></a></li>
- 	  <li><a href="/radio"><font color="#FFEAB3">Radio</font></a></li>
-    <li><a href="/faq"><font color="#FFEAB3">FAQ</font></a></li>
+    <li><a href="/#"><font color="#FFEAB3">about</font></a></li>
+  	<li><a href="/writing"><font color="#FFEAB3">writing</font></a></li>
+  	<li><a href="/art"><font color="#FFEAB3">art</font></a></li>
+ 	<li><a href="/puzzles"><font color="#FFEAB3">puzzles</font></a></li>
+ 	<li><a href="/radio"><font color="#FFEAB3">radio</font></a></li>
+ 	<li><a href="/comics"><font color="#FFEAB3">comics</font></a></li>
+    <li><a href="/faq"><font color="#FFEAB3"><b>FAQ</b></font></a></li>
     <li> &nbsp; </li>
 </ul>
+
 <blockquote>
     for any and all questions related to the identity of quite adept, including age, gender, race, ethnicity, height, weight, pronouns, location, religion, nationality, sexual orientation, relationship status, income, disabilities, profession, education, income, political affiliations, criminal record, or other demographic information... please refer to the FAQ below... thank you...
 </blockquote>
